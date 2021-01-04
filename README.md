@@ -1,5 +1,5 @@
 ### Hi there 👋 It is I, Eamonn! Nice to see you 😀
-![running](https://source.unsplash.com/500x500/daily?abstract)
+
 - 🔭 I’m currently working on [Cups](https://cupsespressocafe.com/) and [Undertow Podcasts](https://eamonncottrell.com/)
 - 🌱 I’m currently learning [Hugo](https://gohugo.io/) and [React](https://reactjs.org/)
 - 💬 Ask me about :coffee: coffee, :running: [ultra-running](https://www.strava.com/athletes/24426538) and :microphone: [podcasting](https://eamonncottrell.com/)
