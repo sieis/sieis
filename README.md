@@ -1,6 +1,6 @@
 ### Hi there 👋 It is I, Eamonn! Nice to see you 😀
 
-- 🔭 I’m currently working on [Cups](https://cupsespressocafe.com/) and [Undertow Podcasts](https://eamonncottrell.com/)
+- 🔭 I’m currently working on [Cups](https://cupsespressocafe.com/) and [Undertow Podcasts](https://eamonncottrell.com/creative-undertow)
 - 🌱 I’m currently learning [Hugo](https://gohugo.io/) and [React](https://reactjs.org/)
 - 💬 Ask me about :coffee: coffee, :running: [ultra-running](https://www.strava.com/athletes/24426538) and :microphone: [podcasting](https://eamonncottrell.com/)
 - 📫 How to reach me: [Twitter](https://twitter.com/EamonnCottrell)
