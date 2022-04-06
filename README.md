@@ -11,3 +11,4 @@
 ___________________________
 
 [![Eamonn's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieis)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/sieis?template=classic&config.timezone=America%2FNew_York)
