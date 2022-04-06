@@ -6,7 +6,7 @@
 - 🥑I’m interested in Developer Experience.
 - 💬 Ask me about :coffee: coffee, :running: [ultra-running](https://www.strava.com/athletes/24426538) and :microphone: [podcasting](https://www.eamonncottrell.com/podcasts/)
 - 📫 How to reach me: [Twitter](https://twitter.com/EamonnCottrell) and [LinkedIn](https://www.linkedin.com/in/eamonncottrell/)
-- ⚡ Fun facts: I play :musical_keyboard: classical piano. 
+- ⚡ Fun facts: I play :musical_keyboard: classical piano and [compose soundtracks](https://sieis.transistor.fm/).
 - 📖 Currently Reading: [Rules of Civility](https://www.amazon.com/dp/B0056A4Z3W/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Amor Towles
 
 ### Here are some of my GitHub stats:
