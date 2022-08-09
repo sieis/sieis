@@ -10,6 +10,3 @@
 - 📖 Last Book Read: [The Old Man and The Sea](https://www.amazon.com/Old-Man-Sea-Ernest-Hemingway-dp-1781396809/dp/1781396809/ref=mt_other?_encoding=UTF8&me=&qid=1654651632) by Ernest Hemmingway
 - 📖 Currently Reading: [The Shadow of the Wind](https://www.amazon.com/Shadow-Hardcover-Author-Carlos-Graves/dp/B00EKWQWMY/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) by Carlos Ruiz Zafon.
 ___________________________
-
-
-![Metrics](https://metrics.lecoq.io/sieis?template=classic&config.timezone=America%2FNew_York)
