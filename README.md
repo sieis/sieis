@@ -1,4 +1,4 @@
-## Hi there 👋 It is I, Eamonn! Nice to see you 😀
+<h1 align="center">Hi there 👋 I'm Eamonn</h1>
 
 - 🔭 I’m currently working on [Unmove](https://github.com/sieis/unmove) && [Cups](https://cupsespressocafe.com/).
 - ✍️ I write about web development and design on [freeCodeCamp](https://www.freecodecamp.org/news/author/eamonn/) && [Hashnode](https://blog.eamonncottrell.com/)
