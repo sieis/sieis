@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Eamonn</h1>
 
----
 <br>
 <div align="center">
 <a href="https://twitter.com/EamonnCottrell"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
