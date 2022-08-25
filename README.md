@@ -5,6 +5,7 @@
 <a href="https://twitter.com/EamonnCottrell"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 <a href="https://blog.eamonncottrell.com/"><img src="https://img.shields.io/badge/DEV BLOG-Hashnode?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
 <a href="https://www.linkedin.com/in/eamonncottrell/"><img src="https://img.shields.io/badge/LinkedIn-LinkedIn?color=0077b5&style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://eamonncottrell.com"><img src="https://img.shields.io/badge/PORTFOLIO-Eamonn?style=for-the-badge&logo=About.me&logoColor=black&color=d5e6ff" alt="Portfolio"/></a>
 </div>
 
 <br>
