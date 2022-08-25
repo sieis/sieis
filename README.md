@@ -47,9 +47,7 @@
 </p>
 <br>
 
----
-
-
+<h2 align="center">More  👇</h2>
 
 <img src="https://media.giphy.com/media/RRi3GncwtYHTSYODaf/giphy.gif" width="150"/>
 
@@ -73,9 +71,8 @@
 
 <br>
 
----
+<h2>Recent Articles 👇</h2>
 
-<h2>Recent Articles</h2>
 <img src="https://media.giphy.com/media/RhMmGFlRGT1UtgGTaD/giphy.gif" width="140"/>
 
 <a href="https://blog.eamonncottrell.com/journey-to-the-center-of-the-code"><strong>Development in My Life</strong></a>: How and why I became a developer.
