@@ -65,15 +65,19 @@
 
 ⚡ Fun facts: I play 🎹 classical piano and [compose soundtracks](https://sieis.transistor.fm/).
 
-📖 Last Book Read: [Steelheart](https://www.amazon.com/Steelheart-Reckoners-Brandon-Sanderson/dp/0385743564) by Brandon Sanderson
+📖 Last Book Read: [The Lincoln Highway](https://www.amazon.com/Lincoln-Highway-Novel-Amor-Towles/dp/0735222355) by Amor Towles.
 
-📖 Currently Reading: [The Lincoln Highway](https://www.amazon.com/Lincoln-Highway-Novel-Amor-Towles/dp/0735222355) by Amor Towles.
+📖 Currently Reading: [The Ruthless Elimination of Hurry](https://www.amazon.com/Ruthless-Elimination-Hurry-Emotionally-Spiritually/dp/0525653090) by John Mark Comer.
 
 <br>
 
 <h2>Recent Articles 👇</h2>
 
 <img src="https://media.giphy.com/media/RhMmGFlRGT1UtgGTaD/giphy.gif" width="140"/>
+    
+<a href="https://blog.eamonncottrell.com/animate-svgs-for-github-readmes"><strong>Animate SVGs for GitHub READMEs</strong></a>: How to animate SVGs to optimize your GitHub READMEs.
+    
+<a href="https://blog.eamonncottrell.com/build-an-open-source-css-library"><strong>Building an Open Source Product</strong></a>: How I built an open source project to learn project management on Github.
 
 <a href="https://blog.eamonncottrell.com/journey-to-the-center-of-the-code"><strong>Development in My Life</strong></a>: How and why I became a developer.
 
@@ -83,7 +87,7 @@
 
 <a href="https://blog.eamonncottrell.com/infinite-memory"><strong>Infinite Memory</strong></a>: How I built a memorization tool in a couple weeks with vanilla Javascript.
 
-<a href="https://www.freecodecamp.org/news/javascript-nullable-how-to-check-for-null-in-js/"><strong>JavaScript Nullable</strong></a>: How to check for NULL in JavaScript.
+
 
 <br>
 </div>
