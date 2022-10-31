@@ -27,7 +27,7 @@
 <h2 align="center">My favorite projects 👇</h2>
 
 <img src="https://media.giphy.com/media/SUFDrfRJOTmcmZndwx/giphy.gif" width="150"/>
-
+</div>
 <p align="center">
     <img width="400" src="https://user-images.githubusercontent.com/3012159/186456090-a216d2d8-26a6-464b-9ba5-ebda2d50df5a.png"/>
     <img width="400" src="https://github.com/sieis/cottrell-theme/blob/main/static/images/twitter-img.jpg?raw=true">
@@ -47,31 +47,9 @@
 </p>
 <br>
 
-<h2 align="center">More  👇</h2>
-
-<img src="https://media.giphy.com/media/RRi3GncwtYHTSYODaf/giphy.gif" width="150"/>
-
-🔭 I’m working on [Unmove](https://github.com/sieis/unmove) && [Cups](https://cupsespressocafe.com/).
-
-✍️ I write about web development and design on [freeCodeCamp](https://www.freecodecamp.org/news/author/eamonn/) && [Hashnode](https://blog.eamonncottrell.com/)
-
-🌱 I’m learning about [Relational Databases with PostgreSQL](https://www.freecodecamp.org/learn/relational-database/).
-
-🥑 🛠️ I’m interested in Product Mangement && Developer Relations.
-
-💬 Ask me about ☕ coffee, 🏃‍♂️ [ultra-running](https://www.strava.com/athletes/24426538) and 🎤 [podcasting](https://www.eamonncottrell.com/podcasts/)
-
-📫 How to reach me: [Twitter](https://twitter.com/EamonnCottrell) and [LinkedIn](https://www.linkedin.com/in/eamonncottrell/)
-
-⚡ Fun facts: I play 🎹 classical piano and [compose soundtracks](https://sieis.transistor.fm/).
-
-📖 Last Book Read: [The Lincoln Highway](https://www.amazon.com/Lincoln-Highway-Novel-Amor-Towles/dp/0735222355) by Amor Towles.
-
-📖 Currently Reading: [The Ruthless Elimination of Hurry](https://www.amazon.com/Ruthless-Elimination-Hurry-Emotionally-Spiritually/dp/0525653090) by John Mark Comer.
-
-<br>
-
 <h2>Recent Articles 👇</h2>
+
+<img src="https://media.giphy.com/media/RhMmGFlRGT1UtgGTaD/giphy.gif" width="140"/>
     
 <!-- BLOGPOSTS:START -->
  - 🌮 [Animate SVGs for GitHub READMEs](https://blog.eamonncottrell.com/animate-svgs-for-github-readmes)
@@ -81,21 +59,7 @@
  - 💫 [Google Sheets Tutorial – How to Use Regex and VLOOKUP to Display Images from Google Drive](https://blog.eamonncottrell.com/google-sheets-tutorial-how-to-use-regex-and-vlookup-to-display-images-from-google-drive)<!-- BLOGPOSTS:END -->
 
 
-<img src="https://media.giphy.com/media/RhMmGFlRGT1UtgGTaD/giphy.gif" width="140"/>
-    
-<a href="https://blog.eamonncottrell.com/animate-svgs-for-github-readmes"><strong>Animate SVGs for GitHub READMEs</strong></a>: How to animate SVGs to optimize your GitHub READMEs.
-    
-<a href="https://blog.eamonncottrell.com/build-an-open-source-css-library"><strong>Building an Open Source Product</strong></a>: How I built an open source project to learn project management on Github.
-
-<a href="https://blog.eamonncottrell.com/journey-to-the-center-of-the-code"><strong>Development in My Life</strong></a>: How and why I became a developer.
-
-<a href="https://www.freecodecamp.org/news/how-to-use-trello-to-manage-freelance-web-projects/"><strong>Freelance Project Management</strong></a>: 10 tips to help you work with clients.
-
-<a href="https://blog.eamonncottrell.com/google-sheets-tutorial-how-to-use-regex-and-vlookup-to-display-images-from-google-drive"><strong>Google Sheets + REGEX</strong></a>: How to use REGEX and VLOOKUP to display images from Google Drive.
-
-<a href="https://blog.eamonncottrell.com/infinite-memory"><strong>Infinite Memory</strong></a>: How I built a memorization tool in a couple weeks with vanilla Javascript.
-
 
 
 <br>
-</div>
+
