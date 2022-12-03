@@ -52,11 +52,11 @@
 <img src="https://media.giphy.com/media/RhMmGFlRGT1UtgGTaD/giphy.gif" width="140"/>
     
 <!-- BLOGPOSTS:START -->
- - 🌮 [Animate SVGs for GitHub READMEs](https://blog.eamonncottrell.com/animate-svgs-for-github-readmes)
- - 🚀 [Build an Open Source CSS Library](https://blog.eamonncottrell.com/build-an-open-source-css-library)
- - 💫 [📚 Two Inspiring Technology Companies 💻](https://blog.eamonncottrell.com/two-inspiring-technology-companies)
- - 🚀 [Journey to the Center of the Code](https://blog.eamonncottrell.com/journey-to-the-center-of-the-code)
- - 💫 [Google Sheets Tutorial – How to Use Regex and VLOOKUP to Display Images from Google Drive](https://blog.eamonncottrell.com/google-sheets-tutorial-how-to-use-regex-and-vlookup-to-display-images-from-google-drive)<!-- BLOGPOSTS:END -->
+ - 🌮 [Email Alias – How to Set Up a Professional Email for Free](https://blog.eamonncottrell.com/email-alias-how-to-set-up-a-professional-email-for-free)
+ - 🚀 [Animate SVGs for GitHub READMEs](https://blog.eamonncottrell.com/animate-svgs-for-github-readmes)
+ - 💫 [Build an Open Source CSS Library](https://blog.eamonncottrell.com/build-an-open-source-css-library)
+ - 🚀 [📚 Two Inspiring Technology Companies 💻](https://blog.eamonncottrell.com/two-inspiring-technology-companies)
+ - 💫 [Journey to the Center of the Code](https://blog.eamonncottrell.com/journey-to-the-center-of-the-code)<!-- BLOGPOSTS:END -->
 
 
 
