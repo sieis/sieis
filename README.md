@@ -52,11 +52,11 @@
 <img src="https://media.giphy.com/media/RhMmGFlRGT1UtgGTaD/giphy.gif" width="140"/>
     
 <!-- BLOGPOSTS:START -->
- - 🌮 [Email Alias – How to Set Up a Professional Email for Free](https://blog.eamonncottrell.com/email-alias-how-to-set-up-a-professional-email-for-free)
- - 🚀 [Animate SVGs for GitHub READMEs](https://blog.eamonncottrell.com/animate-svgs-for-github-readmes)
- - 💫 [Build an Open Source CSS Library](https://blog.eamonncottrell.com/build-an-open-source-css-library)
- - 🚀 [📚 Two Inspiring Technology Companies 💻](https://blog.eamonncottrell.com/two-inspiring-technology-companies)
- - 💫 [Journey to the Center of the Code](https://blog.eamonncottrell.com/journey-to-the-center-of-the-code)<!-- BLOGPOSTS:END -->
+ - 🌮 [I Made 📃Goals and 💲Money This Year | 👉Dev Retro 2022](https://blog.eamonncottrell.com/i-made-goals-and-money-this-year-dev-retro-2022)
+ - 🚀 [Email Alias – How to Set Up a Professional Email for Free](https://blog.eamonncottrell.com/email-alias-how-to-set-up-a-professional-email-for-free)
+ - 💫 [Animate SVGs for GitHub READMEs](https://blog.eamonncottrell.com/animate-svgs-for-github-readmes)
+ - 🚀 [Build an Open Source CSS Library](https://blog.eamonncottrell.com/build-an-open-source-css-library)
+ - 💫 [📚 Two Inspiring Technology Companies 💻](https://blog.eamonncottrell.com/two-inspiring-technology-companies)<!-- BLOGPOSTS:END -->
 
 
 
