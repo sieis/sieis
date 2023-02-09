@@ -52,11 +52,11 @@
 <img src="https://media.giphy.com/media/RhMmGFlRGT1UtgGTaD/giphy.gif" width="140"/>
     
 <!-- BLOGPOSTS:START -->
- - 🌮 [I Made 📃Goals and 💲Money This Year | 👉Dev Retro 2022](https://blog.eamonncottrell.com/i-made-goals-and-money-this-year-dev-retro-2022)
- - 🚀 [Email Alias – How to Set Up a Professional Email for Free](https://blog.eamonncottrell.com/email-alias-how-to-set-up-a-professional-email-for-free)
- - 💫 [Animate SVGs for GitHub READMEs](https://blog.eamonncottrell.com/animate-svgs-for-github-readmes)
- - 🚀 [Build an Open Source CSS Library](https://blog.eamonncottrell.com/build-an-open-source-css-library)
- - 💫 [📚 Two Inspiring Technology Companies 💻](https://blog.eamonncottrell.com/two-inspiring-technology-companies)<!-- BLOGPOSTS:END -->
+ - 🌮 [Google Sheets Tutorial – How to Enable Multiple Selection Data Validation Using Apps Script](https://blog.eamonncottrell.com/google-sheets-tutorial-how-to-enable-multiple-selection-data-validation-using-apps-script)
+ - 🚀 [Excel Tutorial – How to Clean Data with the TRIM&lpar;&rpar; and CLEAN&lpar;&rpar; Functions](https://blog.eamonncottrell.com/excel-tutorial-how-to-clean-data-with-the-trim-and-clean-functions)
+ - 💫 [Accounting Number Format in Excel – How to Apply it to Selected Cells](https://blog.eamonncottrell.com/accounting-number-format-in-excel-how-to-apply-it-to-selected-cells)
+ - 🚀 [How to Clear Formatting in Excel – Remove Format From a Cell](https://blog.eamonncottrell.com/how-to-clear-formatting-in-excel-remove-format-from-a-cell)
+ - 💫 [I Made 📃Goals and 💲Money This Year | 👉Dev Retro 2022](https://blog.eamonncottrell.com/i-made-goals-and-money-this-year-dev-retro-2022)<!-- BLOGPOSTS:END -->
 
 
 
