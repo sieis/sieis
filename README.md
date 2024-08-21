@@ -52,11 +52,11 @@
 <img src="https://media.giphy.com/media/RhMmGFlRGT1UtgGTaD/giphy.gif" width="140"/>
     
 <!-- BLOGPOSTS:START -->
- - 🌮 [6 Ways to number in Excel](https://blog.eamonncottrell.com/6-ways-to-number-in-excel)
- - 🚀 [Google Sheets Tutorial – How to Enable Multiple Selection Data Validation Using Apps Script](https://blog.eamonncottrell.com/google-sheets-tutorial-how-to-enable-multiple-selection-data-validation-using-apps-script)
- - 💫 [Excel Tutorial – How to Clean Data with the TRIM&lpar;&rpar; and CLEAN&lpar;&rpar; Functions](https://blog.eamonncottrell.com/excel-tutorial-how-to-clean-data-with-the-trim-and-clean-functions)
- - 🚀 [Accounting Number Format in Excel – How to Apply it to Selected Cells](https://blog.eamonncottrell.com/accounting-number-format-in-excel-how-to-apply-it-to-selected-cells)
- - 💫 [How to Clear Formatting in Excel – Remove Format From a Cell](https://blog.eamonncottrell.com/how-to-clear-formatting-in-excel-remove-format-from-a-cell)<!-- BLOGPOSTS:END -->
+ - 🌮 [How to Make a Lightbox in a Google Sheet](https://blog.eamonncottrell.com/how-to-make-a-lightbox-in-a-google-sheet)
+ - 🚀 [6 Ways to number in Excel](https://blog.eamonncottrell.com/6-ways-to-number-in-excel)
+ - 💫 [Google Sheets Tutorial – How to Enable Multiple Selection Data Validation Using Apps Script](https://blog.eamonncottrell.com/google-sheets-tutorial-how-to-enable-multiple-selection-data-validation-using-apps-script)
+ - 🚀 [Excel Tutorial – How to Clean Data with the TRIM&lpar;&rpar; and CLEAN&lpar;&rpar; Functions](https://blog.eamonncottrell.com/excel-tutorial-how-to-clean-data-with-the-trim-and-clean-functions)
+ - 💫 [Accounting Number Format in Excel – How to Apply it to Selected Cells](https://blog.eamonncottrell.com/accounting-number-format-in-excel-how-to-apply-it-to-selected-cells)<!-- BLOGPOSTS:END -->
 
 
 
