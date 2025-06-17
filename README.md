@@ -1,65 +1,86 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="40"/> I'm Eamonn</h1>
 
-<p align="center">
-    I am a self-taught <strong>developer</strong> since 2016 💻
-</p>
-<p align="center">
-    I love <strong>people</strong> a little bit more than spreadsheets 📈
-</p>
-<p align="center">
-    I enjoy <strong>writing</strong> about my current technological escapades ✍
-</p>
-<p align="center">
-    I have <strong>23 years</strong> of experience operating a multi-location business ☕
-</p>
+# Hey, I'm Eamonn
 
-<br>
-<div align="center">
-<a href="https://twitter.com/EamonnCottrell"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://blog.eamonncottrell.com/"><img src="https://img.shields.io/badge/DEV BLOG-Hashnode?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
-<a href="https://www.linkedin.com/in/eamonncottrell/"><img src="https://img.shields.io/badge/LinkedIn-LinkedIn?color=0077b5&style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-<a href="https://eamonncottrell.com"><img src="https://img.shields.io/badge/PORTFOLIO-Eamonn?style=for-the-badge&logo=About.me&logoColor=black&color=d5e6ff" alt="Portfolio"/></a>
-<a href="https://www.freecodecamp.org/news/author/eamonn/"><img src="https://img.shields.io/badge/FREECODECAMP-Eamonn's Author Page?style=for-the-badge&logo=freecodecamp&color=3b3b4f" alt="Portfolio"/></a>
-
-<br>
-
-
-<h2 align="center">My favorite projects 👇</h2>
-
-<img src="https://media.giphy.com/media/SUFDrfRJOTmcmZndwx/giphy.gif" width="150"/>
-</div>
-<p align="center">
-    <img width="400" src="https://user-images.githubusercontent.com/3012159/186456090-a216d2d8-26a6-464b-9ba5-ebda2d50df5a.png"/>
-    <img width="400" src="https://github.com/sieis/cottrell-theme/blob/main/static/images/twitter-img.jpg?raw=true">
-    <a href="https://github.com/sieis/unmove"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sieis&repo=unmove&theme=calm">
-    </a>
-    <a href="https://github.com/sieis/cottrell-theme">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sieis&repo=cottrell-theme&theme=calm">
-    </a>
-    <img width="400" src="https://raw.githubusercontent.com/sieis/infinite-memory/main/img/infinite-twitter-card.jpg"/>
-    <img width="400" src="https://raw.githubusercontent.com/sieis/re-cover/main/static/images/recover-theme.jpg">
-    <a href="https://github.com/sieis/infinite-memory">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sieis&repo=infinite-memory&theme=calm">
-    </a>
-    <a href="https://github.com/sieis/re-cover">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sieis&repo=re-cover&theme=calm">
-    </a>
-</p>
-<br>
-
-<h2>Recent Articles 👇</h2>
-
-<img src="https://media.giphy.com/media/RhMmGFlRGT1UtgGTaD/giphy.gif" width="140"/>
-    
-<!-- BLOGPOSTS:START -->
- - 🌮 [How to Make a Lightbox in a Google Sheet](https://blog.eamonncottrell.com/how-to-make-a-lightbox-in-a-google-sheet)
- - 🚀 [6 Ways to number in Excel](https://blog.eamonncottrell.com/6-ways-to-number-in-excel)
- - 💫 [Google Sheets Tutorial – How to Enable Multiple Selection Data Validation Using Apps Script](https://blog.eamonncottrell.com/google-sheets-tutorial-how-to-enable-multiple-selection-data-validation-using-apps-script)
- - 🚀 [Excel Tutorial – How to Clean Data with the TRIM&lpar;&rpar; and CLEAN&lpar;&rpar; Functions](https://blog.eamonncottrell.com/excel-tutorial-how-to-clean-data-with-the-trim-and-clean-functions)
- - 💫 [Accounting Number Format in Excel – How to Apply it to Selected Cells](https://blog.eamonncottrell.com/accounting-number-format-in-excel-how-to-apply-it-to-selected-cells)<!-- BLOGPOSTS:END -->
+Self-deprecating human.
 
 
 
 
-<br>
+## 🚀 About Me
+After being introduced to John Grisham and A Few Good Men, I figured I'd be a lawyer. 
 
+But in the early 2000's I found myself adrift in the deep south of the United States. 
+
+I did what anyone would in this situation: became a barista.
+
+What a time to be alive. The pretentiousness of specialty coffee was palpable in those days.
+
+I bought VHS latte art tutorials. Need I say more?
+
+I found my way onto the campus of Holmes Community College. Two years later, Dan Harmon decided to make a hit TV series roughly diagramming my many years there.
+
+I quit my job at least 2.5 times over the course of 10 years. But they kept pulling me back in and I kept pulling espresso shots through college.
+
+I made my way to Millsaps College and graduated after another several dozen weeks of self-deprecation with a business degree so well rounded the diploma still rolls off my desk.
+
+It was 2012. The earth was still warm. I was a somewhat educated, somewhat experienced graduate. I accepted a management role at Cups. I got married. We bought a home. I was nearing the end-game.
+
+A rift appeared in my sanity. I returned to college to take a summer Calculus II course.
+
+I was intoxicated by all the math and science that I'd overlooked for the first thirty years of my life.
+
+Sparked mainly by a restless discontent that would confuse Steinbeck and a love of the show Lost, I figured I'd study some physics and get an engineering degree.
+
+I got halfway there; the harder half too, from what I understand...so I basically have an engineering degree.
+
+We had our first child and enjoyed it so much we kept going.
+
+Formal education was again put out of my life. I grieved. I found freeCodeCamp, YouTube and the pure days of MOOCs (looking at you, MIT).
+
+I learned to code, I dabbled in data, I began to write, I made some videos, I listened to hours of podcasts, I built and butchered websites. 
+
+Accepting a remote role (still at Cups), I moved back home to the foothills of the Smoky Mountains in East Tennessee and took up ultrarunning.
+
+The world fell apart, but I had already gone remote before it was cool. I ran some more. I began using LinkedIn on the regular. I began to see gray hairs in my beard.
+
+We bought a mini van.
+
+I'm currently writing a tech newsletter, growing a YouTube channel, publishing a daily reflection on addiction, reading a bunch of books and not watching any sports.
+
+
+## Find me 👇
+
+- [YouTube](https://www.youtube.com/@eamonncottrell) 📺
+- [LinkedIn](https://www.linkedin.com/in/eamonncottrell/) 💼
+- [X/Twitter](https://x.com/EamonnCottrell) ✖️
+- [automation newsletter](https://www.gotsheet.xyz/subscribe) 📰
+- [recovery newsletter](https://www.progressandperfection.com/subscribe) ❤️‍🩹
+
+
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on... [Got Sheet](gotsheet.xyz/subscribe), [Progress & Perfection](https://www.progressandperfection.com/subscribe) & [my YouTube channel](https://www.youtube.com/@eamonncottrell)
+
+🧠 I'm currently learning... about [livecoding music](https://tidalcycles.org/). yes, it's bonkers and very cool. (did I mention I play piano?)
+
+👯‍♀️ I'm looking to collaborate on...helping small business owners automate their business.
+
+💬 Ask me about...ultrarunning
+
+📫 How to reach me... [linkedin](https://www.linkedin.com/in/eamonncottrell/) is best
+
+⚡️ Fun fact...It took me till my 30s to learn, but I can solve a rubik's cube.
+
+
+## 🔗 Work
+
+### Some Projects on Github
+* I built a Hugo theme for recovery groups called [**re-cover** here](https://github.com/sieis/re-cover).
+* I built a little animation library to learn more about CSS called [**unmove** here](https://github.com/sieis/unmove).
+
+### Some Articles on Got Sheet
+
+* [Google Sheets Charts Mastery](https://www.gotsheet.xyz/p/google-sheets-chart-mastery)
+* [Dot Array Shortcuts in Excel](https://www.gotsheet.xyz/p/excel-trimrange-trimrefs-clean-arrays)
+* [Sheets vs Excel on Mobile](https://www.gotsheet.xyz/p/google-sheets-vs-excel-mobile-guide)
