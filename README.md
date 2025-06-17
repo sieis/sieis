@@ -10,7 +10,7 @@
     I enjoy <strong>writing</strong> about my current technological escapades ✍
 </p>
 <p align="center">
-    I have <strong>19 years</strong> of experience operating a multi-location business ☕
+    I have <strong>23 years</strong> of experience operating a multi-location business ☕
 </p>
 
 <br>
