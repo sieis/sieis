@@ -3,10 +3,6 @@
 
 Self-deprecating human.
 
-![Github Banner](https://github.com/user-attachments/assets/b8684c2e-ff19-432f-8fe7-430c690b53a9)
-
-
-
 ## 🚀 About Me
 After being introduced to John Grisham and A Few Good Men, I figured I'd be a lawyer. 
 
